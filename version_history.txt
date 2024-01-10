@@ -1,0 +1,7 @@
+2023-11-29: feat: add auto-count face and body records
+2023-12-18: feat: add function that copy related log to specified path
+2023-12-19: feat: integrate RD auto tool (parse_ct_log.py)
+2023-12-26: fix: replace with the latest "parse_ct_log.py"
+2023-12-28: feat: refine parse_ct_log.py, faceme.log time interval I want, based on the time that all cameras opened
+2024-01-02: fix: refine QueryDB.py, include add parameter "during_time", upload start_time, end_time to "time.txt", and let parse to get params.
+2024-01-02  feat: add start.bat to let two programs executed.

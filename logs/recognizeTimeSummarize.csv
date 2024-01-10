@@ -1,0 +1,14 @@
+Total
+WS,Total amount,Avg. (s),Max. (s),0~2 s,2~4 s,4~10 s,>=10 s
+WS name,47,0.55,0.0,47,0,0,0
+Total,47,0.55,0.0,47,0,0,0
+
+Create
+WS,Total amount,Avg. (s),Max. (s),0~2 s,2~4 s,4~10 s,>=10 s
+WS name,47,0.55,0.0,47,0,0,0
+Total,47,0.55,0.0,47,0,0,0
+
+Update
+WS,Total amount,Avg. (s),Max. (s),0~2 s,2~4 s,4~10 s,>=10 s
+WS name,0,0,-inf,0,0,0,0
+Total,0,0,-inf,0,0,0,0

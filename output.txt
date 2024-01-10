@@ -1,0 +1,4 @@
+Init_CPU_Usage: 14.8
+Init_GPU_Usage: 0.0
+Init_GPU_Memory: 2.47
+Init_GPU_Decode: 0.0
