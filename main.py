@@ -223,6 +223,7 @@ class AutoFpsBenchmark():
             self.driver.execute_script('arguments[0].click();',self.ws_page)
             self.root_logger.info('Ready to add %s cams'%self.open_cam)
             #Check multiple rtsp
+            ###
             self.init_num = 1
             self.end_num = 21
             if self.total_cam % 20 == 0:
